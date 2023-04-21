@@ -1,4 +1,12 @@
-# calculator
+# Calculadora
+
+Uma calculadora.
+
+Acesse-a pelo link abaixo:
+
+sunbaee.github.io/calculator/
+
+<h2>English</h2>
 
 A calculator.
 
