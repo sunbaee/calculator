@@ -2,14 +2,14 @@
 
 Uma calculadora.
 
-Acesse-a pelo link abaixo:
+## Acesse-a pelo link abaixo:
 
 sunbaee.github.io/calculator/
 
-<h2>English</h2>
+# English
 
 A calculator.
 
-Acces it via the link below: 
+## Acces it via the link below: 
 
 sunbaee.github.io/calculator/
